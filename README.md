@@ -7,7 +7,7 @@ Using dynamic memory (heap) you save the use of stack.
 Given that the number of space available for stack is very limited compared to heap, when we declare an array of 2D we are very restricted in number of rows and columns.
 Allocating dynamically we have more freedom to create 2D arrays because we have more available memory.
 
-In this example, I:
+List of task implemented in this example:
 * Declare a bi-dimensional array using pointers
 * Insert values in all positions of the array
 * Show inserted values
