@@ -11,4 +11,6 @@ In this example, I:
 * Declare a bi-dimensional array using pointers
 * Insert values in all positions of the array
 * Show inserted values
+* Update a value of the array passing the array as a function parameter
+* Show the array values
 * Clean up the array from memory (very important to avoid memory leak)
